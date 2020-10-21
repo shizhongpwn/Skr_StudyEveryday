@@ -1,6 +1,6 @@
 # Skr_StudyEveryday
 
-> 在这里记录自己所学，每日更新，警醒自己别为懒惰找借口了，以前的就以周为单位了，从今天起以日为单位更新。
+> 在这里记录自己所学，每日更新，警醒自己别为懒惰找借口了，以前的就以周为单位了，中间有一段学的比较杂有点记不清了，从今天起以日为单位更新。
 
 <details>
 <summary>第一周（2020.7.16-2020.7.19）：csapp及其lab</summary>
@@ -68,9 +68,7 @@
   </details>
 
 <details>
-之后的都上传到github了，但是每周学的啥记不清了，现在也认识到了日记的重要性，菜鸡发抖，哭了，此时快午夜12:00 , 网抑云了。
--------------------------分割线，新的开始------------------------
-<summary>第二十二周（2020.10.11-2020.10.18）：Android:</summary>
+<summary>第二十二周-今天（2020.10.11-2020.10.20）：Android:</summary>
 
 + [x] [第一章](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E4%B8%80.md)：Android基础
 
@@ -80,11 +78,10 @@
 
 + [x] [第四章](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/android%E5%9F%BA%E7%A1%80-%E5%B9%BF%E6%92%AD%E6%9C%BA%E5%88%B6.md)：Android 广播机制（未读完）
 
-
   </details>
 
 <details>
-<summary>2020.10.20：Buu RE和Android-NDK学习</summary>
+<summary>2020.10.21：Buu RE和Android-NDK学习</summary>
 + [x] [BUU RE]
 
 做了几个简单的RE，做的很慢，废物。
