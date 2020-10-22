@@ -24,7 +24,7 @@
   </details>
 
 <details>
-<summary>第十周（2020.7.19-2020.7.26）：csapp及其lab</summary>
+<summary>第二周（2020.7.19-2020.7.26）：csapp及其lab</summary>
 
 + [x] csapp-lab：lab4到lab7
 
@@ -47,7 +47,7 @@
   </details>
 
 <details>
-<summary>第十一周（2020.7.26-2020.8.02）：csapp</summary>
+<summary>第三周（2020.7.26-2020.8.02）：csapp</summary>
 
 + [x] csapp：看到第九章的系统级IO
 
@@ -58,7 +58,7 @@
   </details>
 
 <details>
-<summary>第十二周（2020.8.02-2020.8.09）：ucore</summary>
+<summary>第四周（2020.8.02-2020.8.09）：ucore</summary>
 
 + [x] ucore-lab：lab1到lab2
 
@@ -68,7 +68,7 @@
   </details>
 
 <details>
-<summary>第二十二周-今天（2020.10.11-2020.10.20）：Android:</summary>
+<summary>第五周-今天（2020.10.11-2020.10.20）：Android:</summary>
 
 + [x] [第一章](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E4%B8%80.md)：Android基础
 
@@ -77,6 +77,8 @@
 + [x] [第三章](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E6%89%8B%E6%9C%BA%E5%92%8C%E5%B9%B3%E6%9D%BF.md)：手机和平板UI设计相关
 
 + [x] [第四章](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/android%E5%9F%BA%E7%A1%80-%E5%B9%BF%E6%92%AD%E6%9C%BA%E5%88%B6.md)：Android 广播机制（未读完）
+
++ [x] [做了很多的android CTF题目]
 
   </details>
 
