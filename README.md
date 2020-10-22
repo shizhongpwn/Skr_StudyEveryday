@@ -90,3 +90,12 @@
 
 + [x] [Android-NDK](https://github.com/shizhongpwn/Andriod-/blob/master/AndroidSecurity/AndroidSecurity-NKD.md)：Android SDK开发
        </details>
+       
+<details>
+<summary>2020.10.22：Buu RE和Android基础-广播机制结束</summary>
++ [x] [BUU RE]
+
+做了几个简单的RE，CrackRTF,JustRE,Youngter-drive。
+
++ [x] [Android-广播机制](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/android%E5%9F%BA%E7%A1%80-%E5%B9%BF%E6%92%AD%E6%9C%BA%E5%88%B6.md)：Android-广播机制
+       </details>
