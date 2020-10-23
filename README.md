@@ -101,3 +101,14 @@
 
 + [x] [CSAPP-系统级IO](https://github.com/shizhongpwn/csapp_lab/blob/master/%E7%B3%BB%E7%BB%9F%E7%BA%A7IO.md)：今天开了个头。
        </details>
+       
+<details>
+<summary>2020.10.23：Buu RE和计算机网络物理层学习，Glibc_TLS开了个头，因为明天和后天两场比赛就早点睡了，另外今天满课，思政课电脑没电了，头大，学的确实少了点，emmmm</summary>
++ [x] [BUU RE]
+
+做了几个简单的RE，[ACTF新生赛2020]easyre,相册
+
++ [x] [计算机网络-物理层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82.md)：计算机网络-物理层
+
++ [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS今天开了个头。
+       </details>
