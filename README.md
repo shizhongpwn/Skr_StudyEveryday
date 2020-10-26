@@ -112,3 +112,13 @@
 
 + [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS今天开了个头。
        </details>
+<details>
+<summary>2020.10.24-25：byteCTF 和 护网杯</summary>
++ [x] [Byte CTF]
+
+尝试了几个re，我只能说。。。。自己太垃圾了，一心想做安卓，也没看老本行pwn，安卓做不出，抱歉。。。。
+
++ [x] [护网杯]
+
+这个真的是被带躺着进线下的，Byte实在做不动，就看了这个，复现了一个pwn....菜逼哭泣。。
+       </details>
