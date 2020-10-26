@@ -122,3 +122,10 @@
 
 这个真的是被带躺着进线下的，Byte实在做不动，就看了这个，复现了一个pwn....菜逼哭泣。。
        </details>
+    
+<details>
+<summary>2020.10.26：陪女朋友（哈哈哈），android基础-数据存储，Java-IO数据流操作</summary>
++ [x] [android基础-数据存储](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/%23%20Android%E5%9F%BA%E7%A1%80-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8.md)：学了数据存储里面的文件存储技术。
+
++ [x] [Java-IO](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/Java/IO.md)：因为之前看java依赖于C++的意识和一点JAVA基础，但是觉得JAVA本事的语言安全特性也很重要，所以打算趁着学安卓也顺便把Java好好学一下（汗，越学觉得自己不会的越多）
+       </details>
