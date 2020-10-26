@@ -84,6 +84,7 @@
 
 <details>
 <summary>2020.10.21：Buu RE和Android-NDK学习</summary>
+
 + [x] [BUU RE]
 
 做了几个简单的RE，做的很慢，废物。
@@ -93,6 +94,7 @@
        
 <details>
 <summary>2020.10.22：Buu RE和Android基础-广播机制结束，CSAPP-系统级IO填坑开始</summary>
+
 + [x] [BUU RE]
 
 做了几个简单的RE，CrackRTF,JustRE,Youngter-drive。
@@ -104,6 +106,7 @@
        
 <details>
 <summary>2020.10.23：Buu RE和计算机网络物理层学习，Glibc_TLS开了个头，因为明天和后天两场比赛就早点睡了，另外今天满课，思政课电脑没电了，头大，学的确实少了点，emmmm</summary>
+
 + [x] [BUU RE]
 
 做了几个简单的RE，[ACTF新生赛2020]easyre,相册
