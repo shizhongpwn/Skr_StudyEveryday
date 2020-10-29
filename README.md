@@ -143,3 +143,15 @@
 + [x] [buu-re]
 做了几个Exe的re，因为可能要当成例子进行讲解，自己先过一遍。
        </details>
+      
+<details>
+<summary>2020.10.28：AndroidSecurity-classloader相关，学了操作系统第四版（教材没办法），进程管理部分。</summary>
+
++ [x] [AndroidSecurity-脱壳1](https://github.com/shizhongpwn/Andriod-/blob/master/AndroidSecurity/AndroidSecurity-%E8%84%B1%E5%A3%B31.md)：学习了Android里面的class loader相关的机制，和一些插件开发的基础
+
++ [x] [buu-re]
+做了几个Exe的re。
+
++ [x] [操作系统第四版-进程管理](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E5%9B%9B%E7%89%88/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)：操作系统进程管理相关
+
+       </details>
