@@ -155,4 +155,13 @@
 + [x] [操作系统第四版-进程管理](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E5%9B%9B%E7%89%88/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)：操作系统进程管理相关
 
     </details>
+    
+<details>
+<summary>2020.10.29：Buu-Re，还办了点业务，今天真是没学啥东西，哭了。</summary>
+
+
++ [x] [buu-re]
+做了1个Exe的re。
+
+    </details>
 
