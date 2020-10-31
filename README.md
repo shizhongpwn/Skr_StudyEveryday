@@ -165,3 +165,12 @@
 
     </details>
 
+
+<details>
+<summary>2020.10.30：Buu-Re，办了点业务，学了计算机网络数据链路层，加油。</summary>
+
++ [x] [buu-re]
+做了1个Exe的re。
+
++ [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：今天数据链路层开了头。
+    </details>
