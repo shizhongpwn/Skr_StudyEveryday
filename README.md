@@ -174,3 +174,15 @@
 
 + [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：今天数据链路层开了头。
     </details>
+
+<details>
+<summary>2020.10.31：一整天的CTF 全国高校联盟的CTF</summary>
+    </details>
+
+<details>
+<summary>2020.11.01：湖湘杯CTF</summary>
+
++ [x] [湖湘杯CTF]
+其实这大三少有的打一整天的ctf，也差不多是大三的最后一个线上赛了，以后短时间内应该不回参加线上赛了，还剩护网杯和网鼎杯两个线下，CTF生涯就先画上个句号吧，因为要好好充电补充知识，希望自己大三下可以找一个好实习，不想待学校了，嘤嘤嘤。
+
+    </details>
