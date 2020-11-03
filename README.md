@@ -186,7 +186,7 @@
 其实这大三少有的打一整天的ctf，也差不多是大三的最后一个线上赛了，以后短时间内应该不回参加线上赛了，还剩护网杯和网鼎杯两个线下，CTF生涯就先画上个句号吧，因为要好好充电补充知识，希望自己大三下可以找一个好实习，不想待学校了，嘤嘤嘤。
 
     </details>
-    
+  
 <details>
 <summary>2020.11.02：日常Buu-re，为的是练习逆向能力，填坑Glibc-TLS，看了pthread的部分源码，理解了线程栈的分配和一些数据结构，如tcb和struct pthread , 原来cannay在pthread结构体里面也有记录，之前倒是没注意到。</summary>
 
@@ -196,3 +196,13 @@
 + [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS填坑ing。
 
     </details>
+    
+<details>
+<summary>2020.11.03：Glibc_TLS填坑，同时开始学C++第二章，开冲STL</summary>
+
++ [x] [C++](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-%E7%AC%AC%E4%BA%8C%E7%AB%A0.md)：C++第二章。
+
++ [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS填坑ing。
+
+    </details>
+
