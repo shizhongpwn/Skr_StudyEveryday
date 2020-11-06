@@ -212,3 +212,12 @@
 + [x] [护网杯]
     </details>
 
+<details>
+<summary>2020.11.06：一上午高铁，下午看pthread源码补充Glibc_TLS，晚上搞了C++-string类的逆向</summary>
+
++ [x] [C++逆向-string](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2B%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0-string.md)：搞了搞string类，学到了。
+
++ [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS填坑ing。
+
+    </details>
+
