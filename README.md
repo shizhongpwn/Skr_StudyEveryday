@@ -213,11 +213,12 @@
     </details>
 
 <details>
-<summary>2020.11.06：一上午高铁，下午看pthread源码补充Glibc_TLS，晚上搞了C++-string类的逆向</summary>
+<summary>2020.11.06：一上午高铁，下午看pthread源码补充Glibc_TLS，计算机网络学习了一波数据链路层，里面的CRC校验算是一个重点，晚上搞了C++-string类的逆向</summary>
 
 + [x] [C++逆向-string](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2B%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0-string.md)：搞了搞string类，学到了。
 
 + [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS填坑ing。
 
++ [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：今天数据链路层重点研究了其协议相关的三个基本问题：封装成帧，透明传输，差错检测（CRC校验）。
     </details>
 
