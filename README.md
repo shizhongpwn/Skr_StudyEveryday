@@ -228,3 +228,12 @@
 
 + [x] [Glibc_TLS](https://github.com/shizhongpwn/notes/blob/master/Glibc_TLS/Glibc_TLS.md)：TLS完结撒花。
     </details>
+
+<details>
+<summary>2020.11.08：了解java反射，C++Primer第二章完结，第三章vector结束，看了下android脱壳中加壳程序所处位置。</summary>
+
++ [x] [java反射](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/Java/JAVA-%E5%8F%8D%E5%B0%84.md)：简单了解java反射，因为在安卓安全加壳部分要经常用到。
++ [x] [C++Primer第三章](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-%E7%AC%AC%E4%B8%89%E7%AB%A0.md)：第二章今天完结，第三章看到了vector.
++ [x] [加壳APP运行流程和ClassLoader修正](https://github.com/shizhongpwn/Andriod-/blob/master/AndroidSecurity/AndroidSecutity-%E5%8A%A0%E5%A3%B3APP%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%92%8CClassLoader%E4%BF%AE%E6%AD%A3.md):	这一点刚刚开始，因为不太了解java反射，跑过去看了看。
+    </details>
+
