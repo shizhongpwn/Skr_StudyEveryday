@@ -236,4 +236,12 @@
 + [x] [C++Primer第三章](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-%E7%AC%AC%E4%B8%89%E7%AB%A0.md)：第二章今天完结，第三章看到了vector.
 + [x] [加壳APP运行流程和ClassLoader修正](https://github.com/shizhongpwn/Andriod-/blob/master/AndroidSecurity/AndroidSecutity-%E5%8A%A0%E5%A3%B3APP%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B%E5%92%8CClassLoader%E4%BF%AE%E6%AD%A3.md):	这一点刚刚开始，因为不太了解java反射，跑过去看了看。
     </details>
+    
+<details>
+<summary>2020.11.09：上午丢过来一个动态迷宫题目，看了看，然后冲了C++Primer第三章,第四章，搞了点系统IO</summary>
+
++ [x] [C++Primer第三章](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-%E7%AC%AC%E4%B8%89%E7%AB%A0.md)：第三章完结撒花。
++ [x] [C++Primer第四章](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-第四章.md): 第四章完结撒花，这一章跟C有很多冲突，所以挺快的。 
++ [x] [csapp-系统级IO](https://github.com/shizhongpwn/csapp_lab/blob/master/系统级IO.md):	晚上好累啊，看的好慢，哭了。
+    </details>
 
