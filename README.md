@@ -128,7 +128,7 @@
        </details>
     
 <details>
-<summary>2020.10.26：陪女朋友（哈哈哈），android基础-数据存储，Java-IO数据流操作</summary>
+<summary>2020.10.26：android基础-数据存储，Java-IO数据流操作</summary>
 
 + [x] [android基础-数据存储](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8.md)：学了数据存储里面的文件存储技术。
 
