@@ -252,4 +252,12 @@
 + [x] JAVA-web：今天的javaweb课，怎么说全看java了，哈哈
 
     </details>
+    
+<details>
+<summary>2020.11.11：C++冲冲冲,系统级IO，RIO包健壮读，文件元数据，读文件目录，文件共享和IO重定向</summary>
+
++ [x] [C++Primer第六章](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2BPrimer-第六章-函数.md): 完结撒花。
++ [x] [CSAPP-系统级IO](https://github.com/shizhongpwn/csapp_lab/blob/master/系统级IO.md): RIO包健壮读，无缓冲区读就是调用系统调用直接读到目标区域，有缓冲区的就是，先调用系统调用把缓冲区读满，同时用一个结构体对缓冲区进行解释和标记，来方便用户直接从缓冲区拿数据，减少了系统调用，至于文件元数据其实就是v-node的很多文件信息，读取目录差别就在于返回的是指向目录流(directory stream)的指针，共享文件的话，主要是依赖于文件表其实是共享的，每个进程的文件描述符表里面的表项都可以指过去。重定向的话就在于`dup2`函数了，理解共享文件之后理解这个不难。
+
+    </details>
 
