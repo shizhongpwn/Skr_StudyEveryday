@@ -260,4 +260,12 @@
 + [x] [CSAPP-系统级IO](https://github.com/shizhongpwn/csapp_lab/blob/master/系统级IO.md): RIO包健壮读，无缓冲区读就是调用系统调用直接读到目标区域，有缓冲区的就是，先调用系统调用把缓冲区读满，同时用一个结构体对缓冲区进行解释和标记，来方便用户直接从缓冲区拿数据，减少了系统调用，至于文件元数据其实就是v-node的很多文件信息，读取目录差别就在于返回的是指向目录流(directory stream)的指针，共享文件的话，主要是依赖于文件表其实是共享的，每个进程的文件描述符表里面的表项都可以指过去。重定向的话就在于`dup2`函数了，理解共享文件之后理解这个不难。
 
     </details>
+    
+<details>
+<summary>2020.11.12：主要就是复习了操作系统SHELL-LAB，觉得之前有忽视的点，然后复习了一下操作系统异常处理</summary>
+
++ [x] [CSAPP-SHELL-LAB](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-shell-lab.md): 撸源码撸源码。
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理进阶一波。
+
+    </details>
 
