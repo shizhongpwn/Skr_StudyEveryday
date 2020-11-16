@@ -276,3 +276,16 @@
 
     </details>
 
+<details>
+<summary>2020.11.14：呜呜呜，更新了MACOS,新系统直接把VM禁了，晚上发现不能用vm开始了为期一天的修电脑之旅，搞了计网实验，和操作系统异常</summary>
+
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理进阶一波。
+
+    </details>
+
+<details>
+<summary>2020.11.15：修MACOS bug 搞了一天失败了，只能买正版pd了</summary>
+
++ [x] 修理MAC OS,电脑差点只能送售后。。。
+
+    </details>
