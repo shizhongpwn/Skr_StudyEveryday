@@ -289,3 +289,9 @@
 + [x] 修理MAC OS,电脑差点只能送售后。。。
 
     </details>
+<details>
+<summary>2020.11.16-17：异常处理，复习CSAPP-shell lab</summary>
+
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理进阶一波。
++ [x] [CSAPP-SHELL-LAB](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-shell-lab.md): 因为老师布置了一个shell实验，但是那个太简单了，就找了这个难一点的复习一下。
+    </details>
