@@ -295,3 +295,9 @@
 + [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理进阶一波。
 + [x] [CSAPP-SHELL-LAB](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-shell-lab.md): 因为老师布置了一个shell实验，但是那个太简单了，就找了这个难一点的复习一下。
     </details>
+<details>
+<summary>2020.11.18：异常处理，搞了下操作系统进程互斥</summary>
+
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理课后习题都ccc。
++ [x] [进程互斥](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/操作系统实验-进程互斥.md): 进程互斥，生产者消费者实验
+    </details>
