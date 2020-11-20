@@ -302,7 +302,7 @@
 + [x] [进程互斥](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/操作系统实验-进程互斥.md): 进程互斥，生产者消费者实验
     </details>
 <details>
-<summary>2020.11.19：操作系统信号量互斥，生产者消费者问题，做了做操作系统异常实验。收获满满。</summary>
+<summary>2020.11.19：操作系统信号量实现进程互斥，生产者消费者问题，做了做操作系统异常实验。收获满满。</summary>
 
 + [x] [计算机操作系统-第四版-进程管理](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/进程管理.md): 实现进程互斥的几种方式，信号量机制中的整形信号量，AND型信号量，记录型信号量，信号量集，管程机制，
 + [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理实验。
