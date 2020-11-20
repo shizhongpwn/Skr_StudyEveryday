@@ -307,3 +307,9 @@
 + [x] [计算机操作系统-第四版-进程管理](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/进程管理.md): 实现进程互斥的几种方式，信号量机制中的整形信号量，AND型信号量，记录型信号量，信号量集，管程机制，
 + [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 异常处理实验。
     </details>
+<details>
+<summary>2020.11.20：操作系统信号量阻塞机制，信号量处理程序编写问题，研究信号量不能排队等待的问题，搞了搞条件竞争漏洞，收获满满，计算机网络，还跟考研的学长交流了半天。</summary>
+
++ [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：没看啥。。。跟考研学长交流了。。。
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 信号量引发的竞争问题，阻塞机制，操作系统默认阻塞和显示阻塞，解决不排队等待问题就是在一个信号处理程序里面尽可能的多做，（就比如实验里面，尽可能多的回收子进程），感觉编写问题最重要的就是`erron`在信号处理程序里面可能变化，所以在信号处理程序里面进行保存和还原，还有就是`用volatile声明全局变量，这用来告诉编译器不要缓存这个变量`,`sig_atomic_t声明标志，C提供了该整形数据结构，对它的读和写都是原子性的不可以被中断。`。
+    </details>
