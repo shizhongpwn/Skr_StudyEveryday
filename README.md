@@ -36,7 +36,7 @@
 
   这个没写。。。当时绕过了
 
-  [lab6]()：Shell lab
+  [lab6](https://github.com/shizhongpwn/csapp_lab/blob/master/shlab-handout/tsh.c)：Shell lab
 
   实现一个简易的linux里的shell，这个当时记得看了，但是没上传好像，抽空找下上传
 
@@ -312,4 +312,11 @@
 
 + [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：没看啥。。。跟考研学长交流了。。。
 + [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 信号量引发的竞争问题，阻塞机制，操作系统默认阻塞和显示阻塞，解决不排队等待问题就是在一个信号处理程序里面尽可能的多做，（就比如实验里面，尽可能多的回收子进程），感觉编写问题最重要的就是`erron`在信号处理程序里面可能变化，所以在信号处理程序里面进行保存和还原，还有就是`用volatile声明全局变量，这用来告诉编译器不要缓存这个变量`,`sig_atomic_t声明标志，C提供了该整形数据结构，对它的读和写都是原子性的不可以被中断。`。
+    </details>
+    
+<details>
+<summary>2020.11.21：操作系统异常完结，做了所有的测试代码和习题，收获满满，SHELL-lab基本搞定，就差几个信号处理程序，觉得最重要的部分就是job的管理和调度，信号量的阻塞利用的真是完美。</summary>
+
++ [x] [CSAPP-ShelLlab](https://github.com/shizhongpwn/csapp_lab/blob/master/shlab-handout/tsh.c)：总结shell-lab
++ [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 完结撒花，里面很多习题和测试代码都超赞，也算是对竞争漏洞有了更深刻的认识。
     </details>
