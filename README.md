@@ -320,3 +320,16 @@
 + [x] [CSAPP-ShelLlab](https://github.com/shizhongpwn/csapp_lab/blob/master/shlab-handout/tsh.c)：总结shell-lab
 + [x] [CSAPP-异常处理](https://github.com/shizhongpwn/csapp_lab/blob/master/CSAPP-第八章-异常.md): 完结撒花，里面很多习题和测试代码都超赞，也算是对竞争漏洞有了更深刻的认识。
     </details>
+
+<details>
+<summary>2020.11.22：从回家了，陪陪父母，顺便摸鱼。</summary>
+
++ [x] 陪伴 
+    </details>
+
+
+<details>
+<summary>2020.11.23：完结了昨天剩下的信号量处理程序，做了操作系统的进程互斥实验，熟悉了PV操作。</summary>
+
++ [x] [Linux操作系统进程互斥实验](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/操作系统实验-进程互斥.md)：其核心是利用共享内存区域，和自己创建的信号量组，进而可以利用`semop`函数来实现PV操作，进而实现进程互斥访问共享内存区域。
+    </details>
