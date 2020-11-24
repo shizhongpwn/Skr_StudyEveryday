@@ -333,3 +333,10 @@
 
 + [x] [Linux操作系统进程互斥实验](https://github.com/shizhongpwn/notes/blob/master/计算机操作系统-第四版/操作系统实验-进程互斥.md)：其核心是利用共享内存区域，和自己创建的信号量组，进而可以利用`semop`函数来实现PV操作，进而实现进程互斥访问共享内存区域。
     </details>
+    
+<details>
+<summary>2020.11.24：去三甲医院搞了核酸检测，因为要去网鼎杯，同时理解学习了，Linux信号量集以及共享区段的原理和使用配合来实现进程互斥。</summary>
+
++ [x] 核酸检测
+    </details>
+
