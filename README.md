@@ -322,7 +322,7 @@
     </details>
 
 <details>
-<summary>2020.11.22：从回家了，陪陪父母，顺便摸鱼。</summary>
+<summary>2020.11.22：回家了，陪陪父母，顺便摸鱼。</summary>
 
 + [x] 陪伴 
     </details>
