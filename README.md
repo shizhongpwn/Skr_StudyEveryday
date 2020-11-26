@@ -339,4 +339,10 @@
 
 + [x] 核酸检测
     </details>
+    
+<details>
+<summary>2020.11.25：Android学习继续走起，这几天家里事情真多，进度好慢。</summary>
+
++ [x] [android基础-数据存储](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8.md)：学了数据存储里面的Sqlite存储技术。
+    </details>
 
