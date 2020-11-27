@@ -345,4 +345,15 @@
 
 + [x] [android基础-数据存储](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8.md)：学了数据存储里面的Sqlite存储技术。
     </details>
+    
+<details>
+<summary>2020.11.26：网鼎杯</summary>
 
++ [x] 出发去深圳网鼎杯：在路上的和准备比赛的一天。
+    </details>
+<details>
+<summary>2020.11.27：网鼎杯正式开始，晚上搞了点安卓。</summary>
+
++ [x] 深圳网鼎杯：打了一天，累死了,Orz,学到了许多骚姿势。
++ [x] [Android基础-跨程序共享数据-内容提供器](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%B7%A8%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E6%95%B0%E6%8D%AE-%E5%86%85%E5%AE%B9%E6%8F%90%E4%BE%9B%E5%99%A8.md):  搞了点安卓。
+    </details>
