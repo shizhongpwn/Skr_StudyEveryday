@@ -357,3 +357,9 @@
 + [x] 深圳网鼎杯：打了一天，累死了,Orz,学到了许多骚姿势。
 + [x] [Android基础-跨程序共享数据-内容提供器](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%B7%A8%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E6%95%B0%E6%8D%AE-%E5%86%85%E5%AE%B9%E6%8F%90%E4%BE%9B%E5%99%A8.md):  搞了点安卓。
     </details>
+
+<details>
+<summary>2020.11.28：网鼎杯结束，跟着队友和领队深圳摸鱼享乐。。</summary>
+
++ [x] 深圳网鼎杯：享乐，Orz。
+    </details>
