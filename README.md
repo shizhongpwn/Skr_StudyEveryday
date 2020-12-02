@@ -368,3 +368,9 @@
 
 + [x] 深圳网鼎杯：一路倒霉，Orz。
     </details>    
+<details>
+<summary>2020.12.01，终于回到了学校，搞了搞安卓的APP之间的数据共享</summary>
+
++ [x] [Android基础-跨程序共享数据-内容提供器](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%B7%A8%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E6%95%B0%E6%8D%AE-%E5%86%85%E5%AE%B9%E6%8F%90%E4%BE%9B%E5%99%A8.md):  内容提供器，需要注意的点就是`URI`的内容形式和普通形式，它帮助实现跨程序共享数据，还有一个点就是`Manifest.xml`里面的权限控制。
+    </details>     
+
