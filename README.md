@@ -374,3 +374,11 @@
 + [x] [Android基础-跨程序共享数据-内容提供器](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%B7%A8%E7%A8%8B%E5%BA%8F%E5%85%B1%E4%BA%AB%E6%95%B0%E6%8D%AE-%E5%86%85%E5%AE%B9%E6%8F%90%E4%BE%9B%E5%99%A8.md):  内容提供器，需要注意的点就是`URI`的内容形式和普通形式，它帮助实现跨程序共享数据，还有一个点就是`Manifest.xml`里面的权限控制。
     </details>     
 
+<details>
+<summary>2020.12.02，一个Buu逆向，A&T汇编，gcc内联形式学习，C++学习，Ucore基础学习。</summary>
+
++ [x] [buu-re] 做了1个Exe的re。
++ [x] [Ucore-Gcc内联汇编](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-Gcc%E5%86%85%E8%81%94%E6%B1%87%E7%BC%96.md)：Ucore里面用到的汇编形式，但是觉得遇到的越来越多了就不逃避了。
++ [x] [Ucore-Lab1基础补充](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-Gcc%E5%86%85%E8%81%94%E6%B1%87%E7%BC%96.md)：之前Ucore实验指导书没好好看，亏大了。
++ [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++，C++STL一定要冲起来。
+    </details>     
