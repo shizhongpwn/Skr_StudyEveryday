@@ -381,4 +381,12 @@
 + [x] [Ucore-Gcc内联汇编](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-Gcc%E5%86%85%E8%81%94%E6%B1%87%E7%BC%96.md)：Ucore里面用到的汇编形式，但是觉得遇到的越来越多了就不逃避了。
 + [x] [Ucore-Lab1基础补充](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-Gcc%E5%86%85%E8%81%94%E6%B1%87%E7%BC%96.md)：之前Ucore实验指导书没好好看，亏大了。
 + [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++，C++STL一定要冲起来。
+    </details>  
+<details>    
+<summary>2020.12.03，一个Buu逆向，Ucore-lab1知识点复习，C++类相关学习，Android开发看了通知的一些内容。</summary>
+
++ [x] [buu-re] 做了1个Exe的re。
++ [x] [Ucore-Lab1基础](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-lab1-bootloader%E5%90%AF%E5%8A%A8ucore.md)：主要就是分段机制和MBR/Bootloader，还有复习，感觉有收获的，
++ [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++类相关知识点。
++ [x] [Android基础-运用多媒体](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E8%BF%90%E7%94%A8%E6%89%8B%E6%9C%BA%E5%A4%9A%E5%AA%92%E4%BD%93.md)：这波主要是通知相关内容，书上代码有点老旧，不适合新android系统，自己写了个新android的demo. 
     </details>     
