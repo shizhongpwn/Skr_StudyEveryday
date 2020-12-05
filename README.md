@@ -390,9 +390,12 @@
 + [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++类相关知识点。
 + [x] [Android基础-运用多媒体](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E8%BF%90%E7%94%A8%E6%89%8B%E6%9C%BA%E5%A4%9A%E5%AA%92%E4%BD%93.md)：这波主要是通知相关内容，书上代码有点老旧，不适合新android系统，自己写了个新android的demo. 
     </details>     
+    
 <details>    
-<summary>2020.12.04，一个Buu逆向，课超多的一天，对了波计网，洗澡收拾一下自己。
+<summary>2020.12.04，一个Buu逆向，课超多的一天，对了波计网，洗澡收拾一下自己。</summary>
 
 + [x] [buu-re] 做了1个Exe的re。
-+ [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：看了点零碎知识点。
-    </details>   
++ [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：今天数据链路层重点研究了其协议相关的三个基本问题：封装成帧，透明传输，差错检测（CRC校验是重点）。
+    </details> 
+
+
