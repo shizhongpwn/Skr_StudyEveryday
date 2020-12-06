@@ -398,4 +398,10 @@
 + [x] [计算机网络-数据链路层](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：今天数据链路层重点研究了其协议相关的三个基本问题：封装成帧，透明传输，差错检测（CRC校验是重点）。
     </details> 
 
+<details>    
+<summary>2020.12.05，补充ucore，然后就是无聊的杂事了。</summary>
+
++ [x] [Ucore-Lab1基础补充](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-Gcc%E5%86%85%E8%81%94%E6%B1%87%E7%BC%96.md)：之前Ucore实验指导书没好好看，亏大了。
+    </details> 
+
 
