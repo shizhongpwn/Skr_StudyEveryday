@@ -403,5 +403,14 @@
 
 + [x] [Ucore-Lab1基础补充](https://github.com/shizhongpwn/notes/blob/master/ucore/Ucore-lab1-bootloader%E5%90%AF%E5%8A%A8ucore.md)：复习ing.
     </details> 
+<details>    
+<summary>2020.12.06，开会。</summary>
 
++ [x] 周会交流
+    </details> 
+<summary>2020.12.07，buu-re，一个CTF。</summary>
+
++ [x] [buu-re] 做了1个Exe的re。这个得到的经验就是有时候ida分析错误，然后加载到OD里面可以汇编比对一下，看看是哪里出错了。
++ [x] [CTF] 打了一场CTF。
+    </details> 
 
