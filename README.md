@@ -415,3 +415,9 @@
 + [x] [CTF] 打了一场CTF。
     </details> 
 
+<details>        
+<summary>2020.12.08，buu-re，C++类，搞了搞计网算法。</summary>
+
++ [x] [buu-re] 做了1个Exe的re。
++ [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++，C++STL一定要冲起来。
+    </details> 
