@@ -408,6 +408,7 @@
 
 + [x] 周会交流
     </details> 
+<details>        
 <summary>2020.12.07，buu-re，一个CTF。</summary>
 
 + [x] [buu-re] 做了1个Exe的re。这个得到的经验就是有时候ida分析错误，然后加载到OD里面可以汇编比对一下，看看是哪里出错了。
