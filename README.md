@@ -421,3 +421,15 @@
 + [x] [buu-re] 做了1个Exe的re。
 + [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++，C++STL一定要冲起来。
     </details> 
+
+<details>        
+<summary>2020.12.09，buu-re，C++类，</summary>
+
++ [x] [buu-re] 做了2个Exe的re，游戏逆向。
++ [x] [C++-Primer-第七章类](https://github.com/shizhongpwn/CodeAndItsSafety/blob/master/C%2B%2B/C%2B%2Bprimer-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E7%B1%BB.md)：补充C++，C++STL一定要冲起来。
+    </details> 
+<details>        
+<summary>2020.12.10，CVE-2019-9213</summary>
+
++ [x] [CVE-2019-9213](https://github.com/shizhongpwn/CVE/blob/master/CVE-2019-9213/CVE-2019-9213.md)：分析完了poc和漏洞原理，差点exp的分析，不过总算是学到了点东西。
+    </details> 
