@@ -433,3 +433,10 @@
 
 + [x] [CVE-2019-9213](https://github.com/shizhongpwn/CVE/blob/master/CVE-2019-9213/CVE-2019-9213.md)：分析完了poc和漏洞原理，差点exp的分析，不过总算是学到了点东西。
     </details> 
+<details>        
+<summary>2020.12.11，CVE-2019-9213，周五一如既往的水课多，算是放松了吧。</summary>
+
+
++ [x] [CVE-2019-9213](https://github.com/shizhongpwn/CVE/blob/master/CVE-2019-9213/CVE-2019-9213.md)：调试总结了一下。
+    </details> 
+
