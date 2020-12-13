@@ -439,4 +439,10 @@
 
 + [x] [CVE-2019-9213](https://github.com/shizhongpwn/CVE/blob/master/CVE-2019-9213/CVE-2019-9213.md)：调试总结了一下。
     </details> 
+<details>        
+<summary>2020.12.12，英语四六级，定制的隐形眼镜到手啦。</summary>
 
+
++ [x] 英语四六级考试
++ [x] 学会了隐形眼镜怎么用，u1s1隐形眼镜舒适多了，看的还清楚。 
+    </details> 
