@@ -454,4 +454,11 @@
 + [x] [ReverseEngineering](https://github.com/shizhongpwn/ReverseEngineering)：ReverseEngineering。
 + [x] [Android-网络技术](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF.md)：Android Webview。
     </details> 
+<details>        
+<summary>2020.12.14，看完了哪一篇反调试，感觉作者把有用的省略了不少，代码都是简单代码，这样就很没意思，学习英语，搞懂了BIOS如何探测物理内存，Android搞了Web技术，最后就是计网数据链路层终于完结了。</summary>
 
++ [x] 英语每天都要学
++ [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：数据链路层终于完了。
++ [x] [ReverseEngineering](https://github.com/shizhongpwn/ReverseEngineering)：ReverseEngineering。
++ [x] [Android-网络技术](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF.md)：Android Webview，还是挺有意思的。
+    </details> 
