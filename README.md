@@ -447,3 +447,11 @@
 + [x] 学会了隐形眼镜怎么用，u1s1隐形眼镜舒适多了，看的还清楚。 
 + [x] 计算机网络，这次用书本复习的，没有电子笔记啦。
     </details> 
+<details>        
+<summary>2020.12.13，建立了个逆向工程的仓库，总结了一点基础，看完了别人写的Lab1知识总结，感觉学到了，搞了搞Android的web应用，复习计算机网络，迎战期末考。</summary>
+
++ [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.md)：复习。
++ [x] [ReverseEngineering](https://github.com/shizhongpwn/ReverseEngineering)：ReverseEngineering。
++ [x] [Android-网络技术](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF.md)：Android Webview。
+    </details> 
+
