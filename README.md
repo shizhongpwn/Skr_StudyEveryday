@@ -470,5 +470,20 @@
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层开始啦。
 + [x] [Android-网络技术](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF.md)：Android 使用OkHttp库。
     </details> 
-        
+<details>        
+<summary>2020.12.16，上午搞了英语和Buu-re，下午操作系统课，晚上就把手给烫伤了，疼的一晚上没睡好。</summary>
 
++ [x] 英语每天都要学
++ [x] buu-re 
+    </details> 
+<details>        
+<summary>2020.12.17，手烫伤也没睡好，就睡了快一天，呜呜呜</summary>
+
++ [x] 养伤 
+    </details> 
+<details>            
+<summary>2020.12.18，举办校赛，忙活快一点，复习了一点计网。</summary>
+
++ [x] 帮学校举办校赛。 
++ [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层。
+    </details> 
