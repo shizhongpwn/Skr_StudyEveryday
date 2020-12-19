@@ -487,3 +487,10 @@
 + [x] 帮学校举办校赛。 
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层。
     </details> 
+<details>            
+<summary>2020.12.19，运维校赛，学英语，GO逆向计算机网络。</summary>
+
++ [x] 帮学校运维校赛。 
++ [x] Go逆向，学英语。 
++ [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层。
+    </details>     
