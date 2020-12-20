@@ -494,3 +494,9 @@
 + [x] Go逆向，学英语。 
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层。
     </details>     
+<details>            
+<summary>2020.12.20，第二届金盾杯，本来之前说不打了，无奈被拉了过来划水，不过表现还算行吧，有一个感悟就是之前逆向没白练，主要是心态平稳，之前做题老是急躁，难以把握细节，现在算是有所改善，学英语。</summary>
+
++ [x] 金盾杯。 
++ [x] 学英语。 
+    </details>       
