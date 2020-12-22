@@ -505,3 +505,9 @@
 
 + [x] 生日。 
     </details>      
+<details>            
+<summary>2020.12.22，今天因为车牌识别要结课，所以冲了一天，准备了PPT，搞了一场演讲，晚上复习了计网。</summary>
+
++ [x] 期末结课冲刺。 
++ [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层复习（预习）ing。 
+    </details>   
