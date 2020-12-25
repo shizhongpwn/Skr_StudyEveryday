@@ -518,3 +518,8 @@
 + [x] [Android-网络技术](https://github.com/shizhongpwn/Andriod-/blob/master/Android%E5%9F%BA%E7%A1%80/Android%E5%9F%BA%E7%A1%80-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF.md)：Android 使用原生库和谷歌开源库解析XML格式和JSON格式数据。 
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层复习（预习）ing。 
     </details>   
+<details>            
+<summary>2020.12.24，Buu-re , 开会，听讲座。</summary>
+
++ [x] Buu-re。
+    </details>     
