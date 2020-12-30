@@ -535,7 +535,7 @@
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层复习（预习）ing。 
     </details>      
 <details>            
-<summary>2020.12.27-28，期末复习。</summary>
+<summary>2020.12.27-，期末复习。</summary>
 
 + [x] 复习。
     </details>     
