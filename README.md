@@ -550,3 +550,8 @@
 
 + [x] 内核CVE和Fuzz以及容器，学到了不少东西。
     </details>       
+<details>            
+<summary>2020.2.27，昨天挖到了人生第一个0day，威力还可以，开心一下。</summary>
+
++ [x] 开森。
+    </details>       
