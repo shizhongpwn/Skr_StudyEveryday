@@ -535,23 +535,23 @@
 + [x] [计算机网络](https://github.com/shizhongpwn/notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E5%B1%82.md)：网络层复习（预习）ing。 
     </details>      
 <details>            
-<summary>2020.12.27-1.16，期末复习+考试+放松。</summary>
+<summary>2020.12.27-2021.1.16，期末复习+考试+放松。</summary>
 
 + [x] 复习。
 + [x] 考试终于结束了，放松了三天。
     </details>     
 <details>            
-<summary>2020.1.18-1.22，入职到星阑的第一周，学到了不少东西，但是有些不便公开就不做记录了。</summary>
+<summary>2021.1.18-1.22，入职到星阑的第一周，学到了不少东西，但是有些不便公开就不做记录了。</summary>
 
 + [x] 星阑第一周。
     </details>   
 <details>            
-<summary>2020.2.9，公司放假两天了。</summary>
+<summary>2021.2.9，公司放假两天了。</summary>
 
 + [x] 内核CVE和Fuzz以及容器，学到了不少东西。
     </details>       
 <details>            
-<summary>2020.2.27，昨天挖到了人生第一个0day，威力还可以，开心一下。</summary>
+<summary>2021.2.27，昨天挖到了人生第一个0day，威力还可以，开心一下。</summary>
 
 + [x] 开森。
     </details>       
